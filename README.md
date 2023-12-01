@@ -1,6 +1,6 @@
 # Proyecto_Aplicado_BigData
 
-# Alcance 
+# Alcance
 
 Se centralizarán 3 fuentes de datos de tipo semiestructurados almacenados en tablas de formato Excel, cada una de ellas contiene información acerca del estado de la cartera de los usuarios.
 Las áreas funcionales de la organización que se verán impactadas por la centralización de datos son canales de gestión telefónica y la dirección de cobranza.
